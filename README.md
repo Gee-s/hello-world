@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi I'm Lehel, and i like playing with Arduino :D
